@@ -45,7 +45,6 @@ a:before, a:visited:before {
 	transition: width 0.3s ease-in-out;
 	width: 100%; }
 a:hover:before { width: 0; }
-article, section, p { font-size: 1rem; }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Mercury, Times New Roman, serif;
 	font-weight: normal;
@@ -128,15 +127,12 @@ section { overflow: auto; }
 	transform: none;
 	transition: none; }
 #flag h1 {
-	font-size: 3rem;
+	font-size: 3.5rem;
 	font-style: italic;
 	font-weight: normal;
 	line-height: 0.85em;
 	text-transform: uppercase;
 	width: 100%; }
-#flag h1 span {
-	font-size: 0.8em;
-}
 #headline .deck {
 	font-size: 0.42em;
 	font-style: normal;
@@ -283,7 +279,8 @@ article img {
  		max-width: 288px;
  		padding: 0;
  		width: 100%; }
-	#avatar, #flag h1 { text-align: center; } }
+	#avatar, #flag h1 { text-align: center; }
+	#flag .deck { font-size: 0.8em; } }
 
 /* small tablet split screens */
 @media only screen and (min-width: 440px) and (max-width: 569px) {
