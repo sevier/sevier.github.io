@@ -110,7 +110,7 @@ section { overflow: auto; }
 .snippet { display: list-item; }
 /* flex things */
 .aligncenter { align-items: center; }
-.flex {	display: flex;}
+.flex {	display: flex; }
 .flexwrap { flex-wrap: wrap; }
 .spacebetween { justify-content: space-between; }
 
@@ -228,14 +228,16 @@ article img {
 	background: none;
 	color: #000;
 	content: initial;
-	display: inline;
+	display: inline-flex;
 	position: initial;
 	transform: none;
-	transition: none; }
+	transition: none;
+	vertical-align: middle; }
 #endnote img {	/* licensing icons */
-	width: 1.8em;
 	height: auto;
-	margin: 0 .3em; }
+	margin: 0 0.3em;
+	vertical-align: middle;
+	width: 1.8em; }
 
 /* RESPONSIVE STYLING */
 
@@ -248,7 +250,7 @@ article img {
  	/* nav li.ellipsis { width: 95%; } */
  	.flex div {
 		flex: 0 1 auto;
-		line-height: 3.5em;
+		line-height: 1.8em;
 		text-align: center;
 		vertical-align: middle;
 		width: 100%; }
