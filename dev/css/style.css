@@ -45,13 +45,13 @@ a:before, a:visited:before {
 	transition: width 0.3s ease-in-out;
 	width: 100%; }
 a:hover:before { width: 0; }
-article, section { font-size: 1rem; }
+article, section, p { font-size: 1rem; }
 h1, h2, h3, h4, h5, h6 {
 	font-family: Mercury, Times New Roman, serif;
 	font-weight: normal;
 	line-height: 1em;
 	margin: 1em 0 0.25em 0; }
-h1 { font-size: 2em;}
+h1 { font-size: 1.75em;}
 h2 { font-size: 1.5em; }
 h3 { font-size: 1.25em; }
 h4 { font-size: 1em; font-weight: bold; }
@@ -128,12 +128,15 @@ section { overflow: auto; }
 	transform: none;
 	transition: none; }
 #flag h1 {
-	font-size: 4rem;
+	font-size: 3rem;
 	font-style: italic;
 	font-weight: normal;
 	line-height: 0.85em;
 	text-transform: uppercase;
 	width: 100%; }
+#flag h1 span {
+	font-size: 0.8em;
+}
 #headline .deck {
 	font-size: 0.42em;
 	font-style: normal;
@@ -179,8 +182,8 @@ article img {
 	max-width: 100%;
 	height: auto; }
 .title h1 {
-	font-size: 2.5em;
-	line-height: 1.1em;
+	font-size: 2em;
+	line-height: 1em;
 	margin-bottom: 0;
 }
 
@@ -194,7 +197,7 @@ article img {
 	transform: none;
 	transition: none; }
 .tags a { border-bottom: 1px solid #4C00FF; border-right: 1px solid #4C00FF; }
-.tags a:visited { border-bottom: 1px solid #9D61D8; border-right: 1px solid #4C00FF; }
+.tags a:visited { border-bottom: 1px solid #9D61D8; border-right: 1px solid #9D61D8; }
 
 /* footnotes */
 .footnotes {
