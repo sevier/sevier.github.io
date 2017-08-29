@@ -280,7 +280,8 @@ article img {
  		padding: 0;
  		width: 100%; }
 	#avatar, #flag h1 { text-align: center; }
-	#flag .deck { font-size: 0.8em; } }
+	#flag .deck { font-size: 0.8em; line-height: 0.85em; }
+	#headline .deck { font-size: 0.42em; font-style: normal; line-height: 0.75em; } }
 
 /* small tablet split screens */
 @media only screen and (min-width: 440px) and (max-width: 569px) {
