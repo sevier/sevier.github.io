@@ -237,25 +237,11 @@ article img {
 	height: auto;
 	margin: 0 .3em; }
 
-/* NOT USED _ POSSBLE TO DELETE ?? */
-
-/* 
-#notes article {
-	display: list-item;
-}
-
-.flex-profile {
-	text-align: right;
-	width: 300px;
-}
-*/
-
-
-
 /* RESPONSIVE STYLING */
 
 /* PHABLETS & TABLETS */
 @media only screen and (max-width: 569px) { 
+	body { -webkit-text-size-adjust: none; }
 	#marker { display: none; }
  	nav ul { text-align: center; }
  	nav li { margin: 0 0.75em 0 0.75em; }
@@ -296,6 +282,7 @@ article img {
 
 /* large tablets */
 @media only screen and (min-width: 570px) {
+	body {-webkit-text-size-adjust: none;}
 	nav ul { text-align: left; }
 	nav li { margin: 0 1.4em 0 0; }
 	/* nav li.ellipsis { width: 70%; } */
