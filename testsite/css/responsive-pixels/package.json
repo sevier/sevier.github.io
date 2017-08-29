@@ -1,0 +1,22 @@
+{
+  "name": "responsive-pixels",
+  "version": "1.0.0",
+  "description": "Responsive Pixels Stylus library.",
+  "main": "",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@source.ind.ie:project/responsive-pixels.git"
+  },
+  "keywords": [
+    "stylus",
+    "responsive",
+    "pixels"
+  ],
+  "author": "Aral Balkan",
+  "license": "MIT",
+  "dependencies": {
+    "stylus": "^0.52.4"
+  }
+}
