@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</loc>
-    <lastmod>2017-08-09T17:37:34-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://isaacsevier.com/dev/notes/second-article/</loc>
     <lastmod>2017-08-02T17:37:34-07:00</lastmod>
   </url>
@@ -20,6 +15,16 @@
   <url>
     <loc>http://isaacsevier.com/dev/notes/first-article/</loc>
     <lastmod>2017-08-01T17:37:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</loc>
+    <lastmod>2017-05-09T17:37:34-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://isaacsevier.com/dev/notes/testnotefolder/fourth-article/</loc>
+    <lastmod>2016-03-09T07:37:34-07:00</lastmod>
   </url>
   
   <url>

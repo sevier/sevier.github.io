@@ -15,7 +15,7 @@
 	src: url('/fonts/anonymouspro.ttf') format(truetype);
 	font-weight: normal;
 	font-style: normal; }
-* { box-sizing: border-box; margin: 0; padding: 0; }
+* { box-sizing: border-box; border: 0; font-size: 1em; margin: 0; padding: 0; }
 html { font-size: 16px; }
 body {
 	background: #FFF;
