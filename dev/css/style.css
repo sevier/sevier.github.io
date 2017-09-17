@@ -15,7 +15,7 @@ body {
 	font-weight: normal;
 	line-height: 1.4rem; }
 a { color: #4C00FF; text-decoration: none;  }
-a:focus, a:hover { color: #4C00FF; text-decoration: none; }
+a:focus, a:hover { color: #4C00FF; text-decoration: underline; }
 a:visited { color: #9D61D8; text-decoration: none;}
 a:active { color: #4C00FF; text-decoration: underline; }
 h1, h2, h3, h4, h5, h6 { font-family: Mercury, Times New Roman, serif; font-weight: normal; line-height: 1em; margin: 1em 0 0.25em 0; }
@@ -97,7 +97,7 @@ section { overflow: auto; }
 #headline .deck { font-size: 0.43em; font-style: normal; line-height: 1em; }
 .deck { display: block; }
 /* navigation */
-nav a, nav a:visited, nav a:hover, nav a:visited:hover, nav a:focus, nav a:visited:focus, nav a:active { color: #000; }
+nav a, nav a:visited, nav a:hover, nav a:visited:hover, nav a:focus, nav a:visited:focus, nav a:active { color: #000; border-bottom: 2px solid #0FC;}
 nav ul { list-style-type: none; margin: 0; }
 nav li { display: inline-flex; margin: 0 0.75em 0 0.75em; }
 nav .ellipsis {
@@ -152,6 +152,8 @@ header.post { border-bottom: 1px solid #0FC; }
 	margin: 0; }
 .tags li { flex: 0 1 auto; margin: 0; padding: 3px 5px; }
 .tags a { padding: 0.1em 0.6em; }
+.tags a { border-bottom: 1px solid #4C00FF; border-right: 1px solid #4C00FF; }
+.tags a:visited { border-bottom: 1px solid #9D61D8; border-right: 1px solid #9D61D8; }
 /* end */
 #end a, #end a:visited { color: #000; line-height: 1em; vertical-align: middle; }
 /* fontawesome links */
