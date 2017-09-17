@@ -10,5 +10,23 @@
 	<atom:link href="http://isaacsevier.com/dev/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Newcat2</title>
+      <link>http://isaacsevier.com/dev/categories/newcat2/</link>
+      <pubDate>Wed, 02 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/categories/newcat2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testcat</title>
+      <link>http://isaacsevier.com/dev/categories/testcat/</link>
+      <pubDate>Tue, 01 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/categories/testcat/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
