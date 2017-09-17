@@ -28,7 +28,7 @@ a:before, a:visited:before {
 	transform: translateX(-50%);
 	transition: width 0.3s ease-in-out;
 	width: 0; }
-a:hover:before { height: 1px; width: 100%; }
+a:hover:before, a:focus:before { height: 1px; width: 100%; }
 h1, h2, h3, h4, h5, h6 { font-family: Mercury, Times New Roman, serif; font-weight: normal; line-height: 1em; margin: 1em 0 0.25em 0; }
 h1 { font-size: 1.75em;}
 section h1:first-child { margin-top: 0; }
@@ -96,7 +96,7 @@ section { overflow: auto; }
 /* AESTHETIC */
 /* name and description */
 #flag a { color: #000; }
-#flag a:before, #flag a:hover:before {
+#flag a:before, #flag a:hover:before, #flag a:focus:before {
 	background: none;
 	content: initial;
 	display: inline;
@@ -125,7 +125,7 @@ nav a:before, nav a:visited:before {
 	transform: translateX(-50%);
 	transition: width 0.3s ease-in-out;
 	width: 100%; }
-nav a:hover:before { width: 0; }
+nav a:hover:before, nav a:focus:before { width: 0; }
 nav ul { list-style-type: none; margin: 0; }
 nav li { display: inline-flex; margin: 0 0.75em 0 0.75em; }
 nav .ellipsis {
@@ -163,7 +163,7 @@ header.post { border-bottom: 1px solid #0FC; }
 	text-align: center; }
 /* footnotes */
 .footnote { color: #8A8A8A; font-family: Mercury, Times New Roman, serif; font-size: 0.9em; }
-.footnotes a, .footnotes a:before, .footnotes a:hover:before, .footnote-ref a, .footnote-ref a:before, .footnote-ref a:hover:before {
+.footnotes a, .footnotes a:before, .footnotes a:hover:before, .footnotes a:focus:before, .footnote-ref a, .footnote-ref a:before, .footnote-ref a:hover:before, .footnote-ref a:focus:before {
 	background: none;
 	content: initial;
 	display: inline;
@@ -187,8 +187,8 @@ header.post { border-bottom: 1px solid #0FC; }
 	margin: 0; }
 .tags li { flex: 0 1 auto; margin: 0; padding: 3px 5px; }
 .tags a { padding: 0.1em 0.6em; }
-.tags a:after, .tags a:hover:before { background: #4C00FF; }
-.tags a:visited:after, .tags a:visited:hover:before { background: #9D61D8; }
+.tags a:after, .tags a:hover:before, .tags a:focus:before { background: #4C00FF; }
+.tags a:visited:after, .tags a:visited:hover:before, .tags a:visited:focus:before { background: #9D61D8; }
 .tags a:after {
 	content: '';
 	height: 0;
@@ -197,8 +197,6 @@ header.post { border-bottom: 1px solid #0FC; }
 		top: 0;
 	width: 1px;
 	transition: height 0.3s;
-	-webkit-transition: height 0.3s;
-	-moz-transition: height 0.3s;
 	transform: none; }
 .tags a:before {
 	content: '';
@@ -207,27 +205,12 @@ header.post { border-bottom: 1px solid #0FC; }
 		left: 0;
 		top: 0;
 	transition: top 0.3s;
-	-webkit-transition: top 0.3s;
-	-moz-transition: top 0.3s;
 	transform: none;
 	width: 100%; }
-.tags a:hover:before { height: 1px; top: 100%; }
-.tags a:hover:after { height: 100%; }
-
-div.test {
-    white-space: nowrap; 
-    width: 12em; 
-    overflow: hidden; 
-    border: 1px solid #000000;
-}
-
-div.test:hover {
-    text-overflow: inherit;
-    overflow: visible;
-}
-
+.tags a:hover:before, .tags a:focus:before { height: 1px; top: 100%; }
+.tags a:hover:after, .tags a:focus:after { height: 100%; }
 /* end */
-#end a, #end a:before, #end a:hover:before {
+#end a, #end a:before, #end a:hover:before, #end a:focus:before {
 	background: none;
 	color: #000;
 	content: initial;
@@ -238,12 +221,11 @@ div.test:hover {
 	transition: color 0.2s ease-in-out;
 	vertical-align: middle; }
 /* fontawesome links */
-#end a:hover { color: #4C00FF; }
+#end a:hover, #end a:focus { color: #4C00FF; }
 .license { font-size: 1.5em; }
 /* RESPONSIVE STYLING */
 /* tablets & phablets */
 @media only screen and (max-width: 569px) { /* 569 - iphone SE */
-	body { -webkit-text-size-adjust: none; }
 	blockquote { margin-right: 0; padding-right: 0; border-right: 0; width: 100%; }
 	nav .ellipsis { margin: 1.5em 0 0 0; }
 	nav .loc { width: 94%; }
@@ -275,7 +257,6 @@ div.test:hover {
 	.pullright { border: 0; box-shadow: -1px -1px 0 0 #FC0; float: right; margin: 0.3em 0 0.3em 0.5em; } }
 /* small tablet full screen & smaller desktop windows */
 @media only screen and (min-width: 570px) {
-	body { -webkit-text-size-adjust: none; }
 	nav li { margin: 0 1.4em 0 0; }
 	nav ul { text-align: left; }
 	nav .ellipsis { margin-top: 1.5em 0 0 0; }
