@@ -14,8 +14,10 @@ body {
 	font-size: 1rem;
 	font-weight: normal;
 	line-height: 1.4rem; }
-a { color: #4C00FF; }
-a:visited { color: #9D61D8; }
+a { color: #4C00FF; text-decoration: none;  }
+a:focus, a:hover { color: #4C00FF; text-decoration: none; }
+a:visited { color: #9D61D8; text-decoration: none;}
+a:active { color: #4C00FF; text-decoration: underline; }
 h1, h2, h3, h4, h5, h6 { font-family: Mercury, Times New Roman, serif; font-weight: normal; line-height: 1em; margin: 1em 0 0.25em 0; }
 h1 { font-size: 1.75em;}
 section h1:first-child { margin-top: 0; }
@@ -82,7 +84,7 @@ section { overflow: auto; }
 .flex { flex: 0 1 auto; }
 /* AESTHETIC */
 /* name and description */
-#flag a { color: #000; }
+#flag a, #flag a:visited, #flag a:hover, #flag a:visited:hover, #flag a:focus, #flag a:visited:focus { color: #000; }
 #flag h1 {
 	font-size: 3.5rem;
 	font-style: italic;
@@ -95,7 +97,7 @@ section { overflow: auto; }
 #headline .deck { font-size: 0.43em; font-style: normal; line-height: 1em; }
 .deck { display: block; }
 /* navigation */
-nav a, nav a:visited { color: #000; }
+nav a, nav a:visited, nav a:hover, nav a:visited:hover, nav a:focus, nav a:visited:focus, nav a:active { color: #000; }
 nav ul { list-style-type: none; margin: 0; }
 nav li { display: inline-flex; margin: 0 0.75em 0 0.75em; }
 nav .ellipsis {
@@ -151,9 +153,9 @@ header.post { border-bottom: 1px solid #0FC; }
 .tags li { flex: 0 1 auto; margin: 0; padding: 3px 5px; }
 .tags a { padding: 0.1em 0.6em; }
 /* end */
-#end a { color: #000; line-height: 1em; vertical-align: middle; }
+#end a, #end a:visited { color: #000; line-height: 1em; vertical-align: middle; }
 /* fontawesome links */
-#end a:hover, #end a:focus { color: #4C00FF; }
+#end a:focus, #end a:hover, #end a:active { color: #4C00FF; }
 .license { font-size: 1.5em; }
 /* RESPONSIVE STYLING */
 /* tablets & phablets */
@@ -206,8 +208,8 @@ header.post { border-bottom: 1px solid #0FC; }
 	nav .loc { width: 78%; }
 	#mainframe { width: 800px; } }
 @media (hover:hover) {
-	a, a:visited { display: inline-block; position: relative; text-decoration: none; }
-	a:before { background: #4C00FF; }
+	a, a:active a:focus, a:hover, a:visited { display: inline-block; position: relative; text-decoration: none; }
+	a:before { background: #4C00FF; text-decoration: none;}
 	a:visited:before { background: #9D61D8; }
 	a:before, a:visited:before {
 		content: '';
@@ -215,11 +217,12 @@ header.post { border-bottom: 1px solid #0FC; }
 		position: absolute;
 			bottom: -1px;
 			left: 50%;
+		text-decoration: none;
 		transform: translateX(-50%);
 		transition: width 0.3s ease-in-out;
 		width: 0; }
-	a:hover:before, a:focus:before { height: 1px; width: 100%; }
-	#flag a:before, #flag a:hover:before, #flag a:focus:before {
+	a:hover:before, a:focus:before { height: 1px; width: 100%; text-decoration: none;}
+	#flag a:before, #flag a:visited:before, #flag a:hover:before, #flag a:focus:before {
 		background: none;
 		content: initial;
 		display: inline;
@@ -235,7 +238,7 @@ header.post { border-bottom: 1px solid #0FC; }
 		transform: translateX(-50%);
 		transition: width 0.3s ease-in-out;
 		width: 100%; }
-	nav a:hover:before, nav a:focus:before { width: 0; }
+	nav a:hover:before, nav a:focus:before, nav a:active:before { width: 0; }
 	.footnotes a:before, .footnotes a:hover:before, .footnotes a:focus:before, .footnote-ref a:before, .footnote-ref a:hover:before, .footnote-ref a:focus:before {
 		background: none;
 		content: initial;
