@@ -97,7 +97,8 @@ section { overflow: auto; }
 #headline .deck { font-size: 0.43em; font-style: normal; line-height: 1em; }
 .deck { display: block; }
 /* navigation */
-nav a, nav a:hover, nav a:focus, nav a:visited, nav a:visited:hover, nav a:visited:focus, nav a:active { color: #000; padding-bottom: 0.7em; border-bottom: 2px solid #0FC; text-decoration: none; }
+nav a, nav a:visited { color: #000; padding-bottom: 0.7em; border-bottom: 2px solid #0FC; text-decoration: none; }
+nav a:focus, nav a:hover, nav a:visited:focus, nav a:visited:hover, nav a:active { color: #000; border-bottom: 0; text-decoration: none; }
 nav ul { list-style-type: none; margin: 0; }
 nav li { display: inline-flex; margin: 0 0.75em 0 0.75em; }
 nav .ellipsis {
