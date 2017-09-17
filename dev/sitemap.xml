@@ -3,39 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://isaacsevier.com/dev/notes/markdown-example/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/notes/second-article/</loc>
-    <lastmod>2017-08-02T17:37:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/notes/first-article/</loc>
-    <lastmod>2017-08-01T17:37:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</loc>
-    <lastmod>2017-05-09T17:37:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/notes/testnotefolder/fourth-article/</loc>
-    <lastmod>2016-03-09T07:37:34-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://isaacsevier.com/dev/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/3xtag/</loc>
-    <lastmod>2017-08-02T17:37:34-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -44,104 +12,7 @@
   </url>
   
   <url>
-    <loc>http://isaacsevier.com/dev/tags/markdown/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/categories/newcat2/</loc>
-    <lastmod>2017-08-02T17:37:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/notes/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag1/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag10/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag11/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag2/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag3/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag4/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag5/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag6/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag7/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag8/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/tag9/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://isaacsevier.com/dev/tags/</loc>
-    <lastmod>2017-08-02T17:37:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/tags/test/</loc>
-    <lastmod>2017-08-17T20:03:34-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://isaacsevier.com/dev/categories/testcat/</loc>
-    <lastmod>2017-08-01T17:37:34-07:00</lastmod>
     <priority>0</priority>
   </url>
   
