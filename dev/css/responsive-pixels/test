@@ -1,4 +1,0 @@
-echo "Compiling Responsive Pixels and tests stylus."
-./node_modules/stylus/bin/stylus -l < tests.styl > css/tests.css
-echo "Launching in-browser rendering tests."
-open tests.html

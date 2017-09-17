@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newcat2 on Isaac Sevier</title>
+    <link>http://isaacsevier.com/dev/categories/newcat2/</link>
+    <description>Recent content in Newcat2 on Isaac Sevier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2017 17:37:34 -0700</lastBuildDate>
+    
+	<atom:link href="http://isaacsevier.com/dev/categories/newcat2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Article</title>
+      <link>http://isaacsevier.com/dev/notes/second-article/</link>
+      <pubDate>Wed, 02 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/second-article/</guid>
+      <description>The standard Lorem Ipsum passage (AGAIN), used since the 1500s
+The BOLD standard Lorem Ipsum passage (AGAIN), used since the 1500s.
+&amp;ldquo;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</description>
+    </item>
+    
+  </channel>
+</rss>

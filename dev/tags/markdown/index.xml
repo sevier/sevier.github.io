@@ -17,8 +17,8 @@
       <pubDate>Thu, 17 Aug 2017 20:03:34 -0700</pubDate>
       
       <guid>http://isaacsevier.com/dev/notes/markdown-example/</guid>
-      <description>Header 1 This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.
-Header 2 This is a sample document so you can preview the color themes.</description>
+      <description>Hover over the two divs below, to see the entire text.
+This is some long text that will not fit in the box This is some long text that will not fit in the box Header 1 This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.</description>
     </item>
     
   </channel>

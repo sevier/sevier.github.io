@@ -17,8 +17,8 @@
       <pubDate>Thu, 17 Aug 2017 20:03:34 -0700</pubDate>
       
       <guid>http://isaacsevier.com/dev/notes/markdown-example/</guid>
-      <description>Header 1 This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.
-Header 2 This is a sample document so you can preview the color themes.</description>
+      <description>Hover over the two divs below, to see the entire text.
+This is some long text that will not fit in the box This is some long text that will not fit in the box Header 1 This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.</description>
     </item>
     
     <item>
@@ -28,7 +28,29 @@ Header 2 This is a sample document so you can preview the color themes.</descrip
       
       <guid>http://isaacsevier.com/dev/notes/second-article/</guid>
       <description>The standard Lorem Ipsum passage (AGAIN), used since the 1500s
+The BOLD standard Lorem Ipsum passage (AGAIN), used since the 1500s.
 &amp;ldquo;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</description>
+    </item>
+    
+    <item>
+      <title>First Article</title>
+      <link>http://isaacsevier.com/dev/notes/first-article/</link>
+      <pubDate>Tue, 01 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/first-article/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Fourth Article</title>
+      <link>http://isaacsevier.com/dev/notes/testnotefolder/fourth-article/</link>
+      <pubDate>Wed, 09 Mar 2016 07:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/testnotefolder/fourth-article/</guid>
+      <description>Here it is, the fourth article!! This one is in an older year.
+The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Isaac Sevier</title>
+    <title>Notes on Isaac Sevier</title>
     <link>http://isaacsevier.com/dev/notes/</link>
-    <description>Recent content on Isaac Sevier</description>
+    <description>Recent content in Notes on Isaac Sevier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Aug 2017 20:03:34 -0700</lastBuildDate>
@@ -17,8 +17,8 @@
       <pubDate>Thu, 17 Aug 2017 20:03:34 -0700</pubDate>
       
       <guid>http://isaacsevier.com/dev/notes/markdown-example/</guid>
-      <description>Header 1 This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.
-Header 2 This is a sample document so you can preview the color themes.</description>
+      <description>Hover over the two divs below, to see the entire text.
+This is some long text that will not fit in the box This is some long text that will not fit in the box Header 1 This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.This is a sample document so you can preview the color themes.</description>
     </item>
     
     <item>
@@ -28,6 +28,7 @@ Header 2 This is a sample document so you can preview the color themes.</descrip
       
       <guid>http://isaacsevier.com/dev/notes/second-article/</guid>
       <description>The standard Lorem Ipsum passage (AGAIN), used since the 1500s
+The BOLD standard Lorem Ipsum passage (AGAIN), used since the 1500s.
 &amp;ldquo;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</description>
     </item>
     
@@ -44,7 +45,7 @@ Header 2 This is a sample document so you can preview the color themes.</descrip
     <item>
       <title>Third Article</title>
       <link>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</link>
-      <pubDate>Tue, 09 May 2017 17:37:34 -0700</pubDate>
+      <pubDate>Tue, 09 May 2017 17:37:00 -0700</pubDate>
       
       <guid>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</guid>
       <description>WOW A THIRD ARTICLE. The standard Lorem Ipsum passage, used since the 1500s
