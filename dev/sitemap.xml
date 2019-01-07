@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://isaacsevier.com/</loc>
+    <loc>https://isaacsevier.com/dev/</loc>
   </url>
   
   <url>
-    <loc>https://isaacsevier.com/categories/</loc>
+    <loc>https://isaacsevier.com/dev/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://isaacsevier.com/tags/</loc>
+    <loc>https://isaacsevier.com/dev/tags/</loc>
     <priority>0</priority>
   </url>
   
