@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testcat on Isaac Sevier</title>
+    <link>http://isaacsevier.com/dev/categories/testcat/</link>
+    <description>Recent content in Testcat on Isaac Sevier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Aug 2017 17:37:34 -0700</lastBuildDate>
+    
+	<atom:link href="http://isaacsevier.com/dev/categories/testcat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Article</title>
+      <link>http://isaacsevier.com/dev/notes/first-article/</link>
+      <pubDate>Tue, 01 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/first-article/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://isaacsevier.com/dev/posts/first-article/</link>
+      <pubDate>Tue, 01 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/posts/first-article/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+  </channel>
+</rss>

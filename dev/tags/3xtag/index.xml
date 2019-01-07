@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3xtag on Isaac Sevier</title>
+    <link>http://isaacsevier.com/dev/tags/3xtag/</link>
+    <description>Recent content in 3xtag on Isaac Sevier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2017 17:37:34 -0700</lastBuildDate>
+    
+	<atom:link href="http://isaacsevier.com/dev/tags/3xtag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Second Article</title>
+      <link>http://isaacsevier.com/dev/notes/second-article/</link>
+      <pubDate>Wed, 02 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/second-article/</guid>
+      <description>The standard Lorem Ipsum passage (AGAIN), used since the 1500s
+The BOLD standard Lorem Ipsum passage (AGAIN), used since the 1500s.
+&amp;ldquo;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</description>
+    </item>
+    
+    <item>
+      <title>Second Post</title>
+      <link>http://isaacsevier.com/dev/posts/second-article/</link>
+      <pubDate>Wed, 02 Aug 2017 17:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/posts/second-article/</guid>
+      <description>😶 hello are the emojis working?
+The standard Lorem Ipsum passage (AGAIN), used since the 1500s
+The BOLD standard Lorem Ipsum passage (AGAIN), used since the 1500s.
+&amp;ldquo;On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain.</description>
+    </item>
+    
+    <item>
+      <title>Third Article</title>
+      <link>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</link>
+      <pubDate>Tue, 09 May 2017 17:37:00 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/testnotefolder/third-article/</guid>
+      <description>WOW A THIRD ARTICLE. The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>http://isaacsevier.com/dev/posts/testpostfolder/third-article/</link>
+      <pubDate>Tue, 09 May 2017 17:37:00 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/posts/testpostfolder/third-article/</guid>
+      <description>WOW A THIRD POST. The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Fourth Article</title>
+      <link>http://isaacsevier.com/dev/notes/testnotefolder/fourth-article/</link>
+      <pubDate>Wed, 09 Mar 2016 07:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/notes/testnotefolder/fourth-article/</guid>
+      <description>Here it is, the fourth article!! This one is in an older year.
+The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>Fourth Post</title>
+      <link>http://isaacsevier.com/dev/posts/testpostfolder/fourth-article/</link>
+      <pubDate>Wed, 09 Mar 2016 07:37:34 -0700</pubDate>
+      
+      <guid>http://isaacsevier.com/dev/posts/testpostfolder/fourth-article/</guid>
+      <description>Here it is, the fourth article!! This one is in an older year.
+The standard Lorem Ipsum passage, used since the 1500s
+&amp;ldquo;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+  </channel>
+</rss>
