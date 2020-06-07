@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Isaac Sevier</title>
+    <link>https://isaacsevier.com/tags/</link>
+    <description>Recent content in Tags on Isaac Sevier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Jun 2020 21:25:35 -0700</lastBuildDate>
+    
+	<atom:link href="https://isaacsevier.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clean Energy</title>
+      <link>https://isaacsevier.com/tags/clean-energy/</link>
+      <pubDate>Sat, 06 Jun 2020 21:25:35 -0700</pubDate>
+      
+      <guid>https://isaacsevier.com/tags/clean-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Housing</title>
+      <link>https://isaacsevier.com/tags/housing/</link>
+      <pubDate>Sat, 06 Jun 2020 21:25:35 -0700</pubDate>
+      
+      <guid>https://isaacsevier.com/tags/housing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justice</title>
+      <link>https://isaacsevier.com/tags/justice/</link>
+      <pubDate>Sat, 06 Jun 2020 21:25:35 -0700</pubDate>
+      
+      <guid>https://isaacsevier.com/tags/justice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utility Policy</title>
+      <link>https://isaacsevier.com/tags/utility-policy/</link>
+      <pubDate>Sat, 06 Jun 2020 21:25:35 -0700</pubDate>
+      
+      <guid>https://isaacsevier.com/tags/utility-policy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
